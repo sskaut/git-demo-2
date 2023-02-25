@@ -1,4 +1,8 @@
 dayte mne krilya
 ya utopayu
 v zolote
+<<<<<<< HEAD
 tatktonet
+=======
+voobshe-to v omute
+>>>>>>> 8fde4b9a400fbd14f5e323fe6538b6dd81eaf716
